@@ -50,3 +50,7 @@ a:hover{
     background-color: rgb(219, 162, 108);
     color: rgb(29, 19, 16);
 }
+.links a:active{
+    box-shadow: inset 1px 2px 4px 0px rgb(71, 66, 59);
+    background-color: rgb(150, 114, 81);
+}
